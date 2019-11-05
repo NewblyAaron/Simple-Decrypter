@@ -39,6 +39,7 @@
             // 
             // InputBox
             // 
+            this.InputBox.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
             this.InputBox.Location = new System.Drawing.Point(57, 57);
             this.InputBox.Name = "InputBox";
             this.InputBox.Size = new System.Drawing.Size(237, 20);
